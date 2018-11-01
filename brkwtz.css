@@ -57,15 +57,12 @@ p {
   .menu {
     text-align: left;
     float: none;
-    margin-right: 15%;
-  }
-  
-  li {
-    display: inline;
-  }
-  
-  ul {
+    margin-right: 10%;
     padding: 20px;
+  }
+  
+  .menu li {
+    display: inline;
   }
   
   .text {
