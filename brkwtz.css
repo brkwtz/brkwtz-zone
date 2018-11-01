@@ -52,3 +52,22 @@ p {
 .footnote {
   font-size: 10px;
 }
+
+@media screen and (max-width: 950px) {
+  .menu {
+    text-align: left;
+    float: none;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  ul {
+    padding: 20px;
+  }
+  
+  .text {
+    margin-left: 5%;
+  }
+}
