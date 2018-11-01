@@ -57,6 +57,7 @@ p {
   .menu {
     text-align: left;
     float: none;
+    margin-right: 15%;
   }
   
   li {
