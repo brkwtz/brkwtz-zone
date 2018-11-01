@@ -1,0 +1,54 @@
+body {
+	font-family: 'Karla', sans-serif;
+	background-image: url("http://brkwtz.zone/images/header.png");
+  margin: auto;
+}
+
+a {
+	color: #FFE319;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Bungee Shade', cursive;
+	color: white;
+  text-align: center;
+  background: #FF028C;
+}
+
+h2 {
+	font-family: 'Karla', sans-serif;
+	font-size: 16px;}
+
+li {
+	text-decoration: none;
+  margin: 10px;
+  list-style-type: none;
+}
+
+p {
+	font-family: 'Karla', sans-serif;
+  margin: 10px;
+}
+
+.text {
+  margin-left: 15%;
+  padding: 20px;
+  background: black;
+  color: white;
+}
+
+.menu {
+	font-family: 'Bungee Shade', cursive;
+  text-align: right;
+  float: left;
+  background: #FFE319;
+}
+
+.menu a {
+  color: black
+}
+
+.footnote {
+  font-size: 10px;
+}
